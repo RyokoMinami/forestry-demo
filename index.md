@@ -8,6 +8,9 @@ partners:
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
+- heading: '007'
+  description: 700
+  icon: "/uploads/2017/11/14/william-stitt-162611.jpg"
 - description: Performing collaborative research and providing services to support
     the Health Sector.
   heading: Health
